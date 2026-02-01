@@ -1,0 +1,428 @@
+{
+  "topHeader": {
+    "sale": "¡Rebajas de verano en todos los trajes de baño y entrega express gratis - 50% de descuento!",
+    "shopNow": "Comprar ahora"
+  },
+  "nav": {
+    "home": "Inicio",
+    "contact": "Contacto",
+    "about": "Acerca de",
+    "signUp": "Registrarse",
+    "searchPlaceholder": "¿Qué estás buscando?"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "welcome": "Bienvenido",
+    "viewAll": "Ver Todo",
+    "shopNow": "Comprar Ahora",
+    "buyNow": "Comprar Ahora",
+    "noResults": "No se encontraron productos para",
+    "all": "TODO"
+  },
+  "hero": {
+    "iphone14": "Serie iPhone 14",
+    "title": "Hasta 10%",
+    "subtitle": "de descuento",
+    "shopNow": "Comprar Ahora"
+  },
+  "categories": {
+    "title": "Categorías",
+    "browseByCategory": "Explorar por Categoría",
+    "womans": "Moda Mujer",
+    "mens": "Moda Hombre",
+    "electronics": "Electrónica",
+    "homeLifestyle": "Hogar y Estilo de Vida",
+    "medicine": "Medicina",
+    "sports": "Deportes y Aire Libre",
+    "babys": "Bebés y Juguetes",
+    "groceries": "Comestibles y Mascotas",
+    "health": "Salud y Belleza",
+    "phones": "Teléfonos",
+    "computers": "Computadoras",
+    "smartwatch": "Reloj Inteligente",
+    "camera": "Cámara",
+    "headphones": "Auriculares",
+    "gaming": "Juegos"
+  },
+  "flashSales": {
+    "subtitle": "Hoy",
+    "title": "Ofertas Relámpago",
+    "days": "Días",
+    "hours": "Horas",
+    "minutes": "Minutos",
+    "seconds": "Segundos"
+  },
+  "bestSelling": {
+    "subtitle": "Este Mes",
+    "title": "Productos Más Vendidos"
+  },
+  "exploreProducts": {
+    "subtitle": "Nuestros Productos",
+    "title": "Explora Nuestros Productos"
+  },
+  "newArrival": {
+    "subtitle": "Destacado",
+    "title": "Nuevo Ingreso"
+  },
+  "jbl": {
+    "categories": "Categorías",
+    "title": "Mejora Tu",
+    "subtitle": "Experiencia Musical",
+    "hours": "Horas",
+    "days": "Días",
+    "minutes": "Minutos",
+    "seconds": "Segundos",
+    "buyNow": "¡Comprar Ahora!"
+  },
+  "services": {
+    "freeDelivery": {
+      "title": "ENTREGA GRATIS Y RÁPIDA",
+      "description": "Entrega gratis para todos los pedidos superiores a $140"
+    },
+    "customerService": {
+      "title": "SERVICIO AL CLIENTE 24/7",
+      "description": "Soporte al cliente amigable las 24 horas"
+    },
+    "moneyBack": {
+      "title": "GARANTÍA DE DEVOLUCIÓN DE DINERO",
+      "description": "Devolvemos el dinero dentro de 30 días"
+    }
+  },
+  "footer": {
+    "exclusive": "Exclusive",
+    "subscribe": "Suscribirse",
+    "subscribeText": "Obtén 10% de descuento en tu primer pedido",
+    "enterEmail": "Ingresa tu correo electrónico",
+    "support": "Soporte",
+    "address": "111 Bijoy Sarani, Dhaka, DH 1515, Bangladesh",
+    "email": "exclusive@gmail.com",
+    "phone": "+88015-88888-9999",
+    "account": "Cuenta",
+    "myAccount": "Mi Cuenta",
+    "loginRegister": "Iniciar Sesión / Registrarse",
+    "cart": "Carrito",
+    "wishlist": "Lista de Deseos",
+    "shop": "Tienda",
+    "quickLink": "Enlace Rápido",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfUse": "Términos de Uso",
+    "faq": "Preguntas Frecuentes",
+    "contact": "Contacto",
+    "downloadApp": "Descargar App",
+    "appPromo": "Ahorra $3 con la App solo para nuevos usuarios",
+    "copyright": "Copyright Youssef Talaat 2025. Todos los derechos reservados"
+  },
+  "auth": {
+    "login": {
+      "title": "Iniciar sesión en Exclusive",
+      "subtitle": "Ingresa tus datos a continuación",
+      "emailPlaceholder": "Correo electrónico o número de teléfono",
+      "passwordPlaceholder": "Contraseña",
+      "loginButton": "Iniciar Sesión",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "noAccount": "¿No tienes una cuenta?",
+      "signUp": "Registrarse",
+      "emailRequired": "El correo electrónico es requerido",
+      "emailInvalid": "El correo electrónico no es válido",
+      "passwordRequired": "La contraseña es requerida",
+      "passwordLength": "La contraseña debe tener al menos 6 caracteres"
+    },
+    "register": {
+      "title": "Crear una cuenta",
+      "subtitle": "Ingresa tus datos a continuación",
+      "namePlaceholder": "Nombre",
+      "emailPlaceholder": "Correo electrónico o número de teléfono",
+      "passwordPlaceholder": "Contraseña",
+      "createButton": "Crear Cuenta",
+      "haveAccount": "¿Ya tienes una cuenta?",
+      "logIn": "Iniciar sesión",
+      "nameRequired": "El nombre es requerido",
+      "emailRequired": "El correo electrónico es requerido",
+      "emailInvalid": "El correo electrónico no es válido",
+      "passwordRequired": "La contraseña es requerida",
+      "passwordLength": "La contraseña debe tener al menos 6 caracteres"
+    },
+    "forgotPassword": {
+      "title": "¿Olvidaste tu contraseña?",
+      "subtitle": "Ingresa tu correo electrónico y te enviaremos un enlace de restablecimiento",
+      "emailPlaceholder": "Correo electrónico",
+      "sendButton": "Enviar Enlace de Restablecimiento",
+      "backToLogin": "Volver a Iniciar Sesión"
+    }
+  },
+  "cart": {
+    "title": "Carrito",
+    "emptyCart": "Tu carrito está vacío",
+    "startShopping": "Comenzar a Comprar",
+    "product": "Producto",
+    "price": "Precio",
+    "quantity": "Cantidad",
+    "subtotal": "Subtotal",
+    "returnToShop": "Volver a la Tienda",
+    "updateCart": "Actualizar Carrito",
+    "cartUpdated": "¡Carrito Actualizado!",
+    "couponCode": "Código de Cupón",
+    "applyCoupon": "Aplicar Cupón",
+    "enterCoupon": "Por favor ingresa un código de cupón",
+    "couponApplied": "¡Cupón aplicado!",
+    "cartTotal": "Total del Carrito",
+    "shipping": "Envío",
+    "free": "Gratis",
+    "total": "Total",
+    "proceedToCheckout": "Proceder al pago"
+  },
+  "wishlist": {
+    "title": "Lista de Deseos",
+    "empty": "Tu lista de deseos está vacía",
+    "moveAllToBag": "Mover Todo a la Bolsa",
+    "justForYou": "Solo Para Ti",
+    "seeAll": "Ver Todo"
+  },
+  "checkout": {
+    "title": "Detalles de Facturación",
+    "firstName": "Nombre",
+    "companyName": "Nombre de la Empresa",
+    "streetAddress": "Dirección",
+    "apartment": "Apartamento, piso, etc. (opcional)",
+    "city": "Ciudad",
+    "phone": "Número de Teléfono",
+    "email": "Correo Electrónico",
+    "saveInfo": "Guardar esta información para un pago más rápido la próxima vez",
+    "paymentMethod": "Método de Pago",
+    "bank": "Banco",
+    "cashOnDelivery": "Pago contra entrega",
+    "coupon": "Cupón",
+    "applyCoupon": "Aplicar Cupón",
+    "orderSummary": "Resumen del Pedido",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "total": "Total",
+    "placeOrder": "Realizar Pedido"
+  },
+  "breadcrumb": {
+    "account": "Cuenta",
+    "myAccount": "Mi Cuenta",
+    "product": "Producto",
+    "viewCart": "Ver Carrito",
+    "checkout": "Pagar"
+  },
+  "errors": {
+    "firstNameRequired": "El nombre es obligatorio",
+    "streetRequired": "La dirección es obligatoria",
+    "cityRequired": "La ciudad es obligatoria",
+    "phoneRequired": "El número de teléfono es obligatorio",
+    "phoneInvalid": "Ingrese un número de teléfono válido",
+    "emailRequired": "El correo electrónico es obligatorio",
+    "emailInvalid": "Ingrese un correo electrónico válido"
+  },
+  "coupon": {
+    "empty": "Por favor ingrese un cupón",
+    "applied": "Cupón \"{{code}}\" aplicado"
+  },
+
+  "account": {
+    "breadcrumbHome": "Inicio",
+    "breadcrumbMyAccount": "Mi Cuenta",
+
+    "welcome": "¡Bienvenido!",
+    "manageAccount": "Administrar mi cuenta",
+
+    "myProfile": "Mi Perfil",
+    "addressBook": "Libreta de direcciones",
+    "paymentOptions": "Mis opciones de pago",
+
+    "myOrders": "Mis pedidos",
+    "myReturns": "Mis devoluciones",
+    "myCancellations": "Mis cancelaciones",
+    "myWishlist": "Mi lista de deseos",
+
+    "editProfile": "Editar tu perfil",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo electrónico",
+    "address": "Dirección",
+
+    "passwordChanges": "Cambios de contraseña",
+    "currentPassword": "Contraseña actual",
+    "newPassword": "Nueva contraseña",
+    "confirmPassword": "Confirmar nueva contraseña",
+
+    "cancel": "Cancelar",
+    "saveChanges": "Guardar cambios",
+
+    "addAddress": "Agregar dirección",
+    "noAddresses": "Aún no hay direcciones guardadas",
+
+    "noPayments": "Aún no se han agregado métodos de pago",
+
+    "viewProduct": "Ver producto",
+    "wishlistEmpty": "Tu lista de deseos está vacía",
+
+    "returnsEmpty": "Aún no hay devoluciones",
+    "cancellationsEmpty": "No hay pedidos cancelados",
+
+    "order": "Pedido",
+    "qty": "Cant.",
+    "reason": "Motivo",
+    "status": "Estado",
+    "cancelled": "Cancelado",
+    "cancelledOn": "Cancelado el"
+  },
+
+  "orders": {
+    "title": "Mis Pedidos",
+    "orderNumber": "Pedido #",
+    "date": "Fecha",
+    "status": "Estado",
+    "total": "Total",
+    "actions": "Acciones",
+    "viewDetails": "Ver detalles",
+
+    "pending": "Pendiente",
+    "processing": "Procesando",
+    "shipped": "Enviado",
+    "delivered": "Entregado",
+    "cancelled": "Cancelado",
+
+    "totalAmount": "Importe total",
+    "items": "Artículos",
+    "orderItems": "Artículos del pedido",
+    "shippingAddress": "Dirección de envío",
+    "orderSummary": "Resumen del pedido",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "free": "Gratis",
+
+    "writeReview": "Escribir reseña",
+    "cancelOrder": "Cancelar pedido",
+
+    "noOrders": "Aún no hay pedidos",
+    "noOrdersDesc": "Todavía no has realizado ningún pedido",
+    "startShopping": "Comenzar a comprar",
+
+    "cancelTitle": "Cancelar pedido",
+    "cancelConfirm": "¿Estás seguro de que deseas cancelar este pedido? Esta acción no se puede deshacer.",
+    "cancelReason": "Motivo de la cancelación (opcional)",
+    "cancelPlaceholder": "Cuéntanos por qué cancelas...",
+    "keepOrder": "Mantener pedido",
+    "confirmCancel": "Sí, cancelar",
+    "myCancellations": "Pedidos cancelados",
+    "orderCancelled": "Pedido cancelado",
+    "cancelledOn": "Cancelado el",
+
+    "orderInformation": "Información del pedido",
+    "orderedOn": "Fecha del pedido",
+    "paymentMethod": "Método de pago",
+
+    "cancellationReason": "Motivo de la cancelación",
+
+    "noCancelledOrders": "No hay pedidos cancelados",
+    "noCancelledOrdersDesc": "Aún no has cancelado ningún pedido",
+    "continueShopping": "Seguir comprando"
+  },
+
+  "reviews": {
+    "home": "Inicio",
+    "account": "Mi Cuenta",
+    "myReviews": "Mis Reseñas",
+
+    "yourReviews": "Tus Reseñas",
+    "productsToReview": "Productos para Reseñar",
+
+    "writeReview": "Escribir Reseña",
+    "writeAReview": "Escribir una Reseña",
+    "submitReview": "Enviar Reseña",
+    "cancel": "Cancelar",
+
+    "reviewedOn": "Reseñado el",
+    "ratingOutOf": "({{rating}}/5)",
+
+    "yourRating": "Tu Calificación",
+    "yourReview": "Tu Opinión",
+    "optional": "Opcional",
+
+    "noReviewsTitle": "Aún no hay reseñas",
+    "noReviewsDesc": "¡Compra productos y comparte tu experiencia!",
+    "completedOrdersHint": "Los pedidos completados aparecerán aquí para reseñar",
+
+    "ratingRequired": "¡Por favor selecciona una calificación!",
+    "noComment": "Sin comentario"
+  },
+
+  "product": {
+    "inStock": "En Stock",
+    "outOfStock": "Agotado",
+    "reviews": "Reseñas",
+    "colors": "Colores",
+    "size": "Tamaño",
+    "quantity": "Cantidad",
+    "buyNow": "Comprar Ahora",
+    "freeDelivery": "Entrega Gratis",
+    "freeDeliveryDesc": "Ingresa tu código postal para verificar disponibilidad",
+    "returnDelivery": "Devolución Gratis",
+    "returnDeliveryDesc": "Devoluciones gratis durante 30 días",
+    "relatedItems": "Artículos Relacionados"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "callToUs": "Llámanos",
+    "availableText": "Estamos disponibles 24/7, los 7 días de la semana.",
+    "phone": "Teléfono: +8801611112222",
+    "writeToUs": "Escríbenos",
+    "writeText": "Completa nuestro formulario y nos pondremos en contacto contigo en 24 horas.",
+    "email": "Correo: customer@exclusive.com",
+    "emailsEmail": "Correos: support@exclusive.com",
+    "yourName": "Tu Nombre",
+    "yourEmail": "Tu Correo Electrónico",
+    "yourPhone": "Tu Teléfono",
+    "yourMessage": "Tu Mensaje",
+    "sendMessage": "Enviar Mensaje"
+  },
+  "about": {
+    "title": "Acerca de Nosotros",
+    "ourStory": "Nuestra Historia",
+    "storyText": "Lanzado en 2015, Exclusive es el principal mercado de compras en línea de Asia del Sur con presencia activa en Bangladesh. Con el apoyo de una amplia gama de soluciones de marketing, datos y servicios personalizados, Exclusive tiene 10,500 vendedores y 300 marcas y atiende a 3 millones de clientes en toda la región.",
+    "extraStory": "Exclusive tiene más de 1 millón de productos para ofrecer, creciendo a un ritmo muy rápido. Exclusive ofrece una amplia variedad de categorías que van desde productos de consumo.",
+    "sellers": "Vendedores activos en nuestro sitio",
+    "monthlySales": "Venta mensual de productos",
+    "customers": "Clientes activos en nuestro sitio",
+    "annualGross": "Venta bruta anual en nuestro sitio"
+  },
+  "error": {
+    "title": "404 No Encontrado",
+    "404": "404 No Encontrado",
+    "pageNotFound": "Página No Encontrada",
+    "backToHome": "Volver al inicio"
+  },
+  "legal": {
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfUse": "Términos de Uso",
+    "faq": "Preguntas Frecuentes"
+  },
+  "chat": {
+    "title": "Chat de Soporte",
+    "subtitle": "¡Estamos aquí para ayudar!",
+    "placeholder": "Escribe tu mensaje...",
+    "clear": "Borrar chat",
+    "close": "Minimizar",
+    "quickStart": "Inicio rápido:",
+    "quickReplies": {
+      "products": "Ver Productos",
+      "shipping": "Info de Envío",
+      "orders": "Rastrear Pedido",
+      "support": "Contactar Soporte"
+    },
+    "responses": {
+      "greeting": "¡Hola! 👋 ¿Cómo puedo ayudarte hoy? Puedes preguntar sobre productos, envíos, pedidos o cualquier otra cosa!",
+      "productSearch": "¡Puedo ayudarte a encontrar productos! Por favor dime lo que buscas, o navega nuestras categorías:\n\n🛍️ Electrónica\n👕 Moda\n🏠 Hogar y Estilo de Vida\n⚽ Deportes\n\n¡O visita nuestra página de tienda!",
+      "shipping": "📦 Información de Envío:\n\n✅ Envío GRATIS en pedidos superiores a $140\n✅ Entrega estándar: 3-5 días hábiles\n✅ Entrega express: 1-2 días hábiles\n\n¡Tu pedido será enviado dentro de 24 horas!",
+      "payment": "💳 Aceptamos:\n\n✅ Tarjetas de Crédito/Débito (Visa, Mastercard)\n✅ PayPal\n✅ Pago contra entrega\n\n¡Todos los pagos son seguros y encriptados! 🔒",
+      "returns": "↩️ Política de Devolución:\n\n✅ Garantía de devolución de dinero de 30 días\n✅ Envío de devolución gratuito\n✅ Reembolso completo o cambio\n\n¡Contacta support@exclusive.com para iniciar una devolución!",
+      "trackOrder": "📍 Rastrea tu pedido:\n\n1. Ve a 'Mis Pedidos' en tu cuenta\n2. Haz clic en 'Ver Detalles'\n3. Ve el rastreo en tiempo real\n\n¿Necesitas ayuda? ¡Envíame tu número de pedido!",
+      "discounts": "🎉 Ofertas Actuales:\n\n✅ Venta de Verano: Hasta 50% OFF\n✅ Primer pedido: 10% descuento\n✅ Envío gratis en pedidos superiores a $140\n\n¡Usa el código: SUMMER2026 al pagar!",
+      "support": "💬 Contactar Soporte:\n\n📧 Email: support@exclusive.com\n📞 Teléfono: +88015-88888-9999\n⏰ Disponible: 24/7\n\n¿Cómo puedo ayudarte hoy?",
+      "thanks": "¡De nada! 😊 ¿Hay algo más en lo que pueda ayudarte?",
+      "default": "¡Estoy aquí para ayudar! Puedes preguntarme sobre:\n\n🛍️ Productos y Compras\n📦 Envío y Entrega\n💳 Métodos de Pago\n↩️ Devoluciones y Reembolsos\n📍 Rastreo de Pedidos\n💬 Soporte al Cliente\n\n¿Qué te gustaría saber?"
+    }
+  }
+}

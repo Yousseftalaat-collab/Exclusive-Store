@@ -1,0 +1,430 @@
+{
+  "topHeader": {
+    "sale": "Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!",
+    "shopNow": "ShopNow"
+  },
+  "nav": {
+    "home": "Home",
+    "contact": "Contact",
+    "about": "About",
+    "signUp": "Sign Up",
+    "searchPlaceholder": "What are you looking for?"
+  },
+  "common": {
+    "loading": "Loading...",
+    "welcome": "Welcome",
+    "viewAll": "View All",
+    "shopNow": "Shop Now",
+    "buyNow": "Buy Now",
+    "noResults": "No products found for",
+    "all": "ALL"
+  },
+  "hero": {
+    "iphone14": "iPhone 14 Series",
+    "title": "Up to 10%",
+    "subtitle": "off Voucher",
+    "shopNow": "Shop Now"
+  },
+  "categories": {
+    "title": "Categories",
+    "browseByCategory": "Browse By Category",
+    "womans": "Woman's Fashion",
+    "mens": "Men's Fashion",
+    "electronics": "Electronics",
+    "homeLifestyle": "Home & Lifestyle",
+    "medicine": "Medicine",
+    "sports": "Sports & Outdoor",
+    "babys": "Baby's & Toys",
+    "groceries": "Groceries & Pets",
+    "health": "Health & Beauty",
+    "phones": "Phones",
+    "computers": "Computers",
+    "smartwatch": "SmartWatch",
+    "camera": "Camera",
+    "headphones": "HeadPhones",
+    "gaming": "Gaming"
+  },
+  "flashSales": {
+    "subtitle": "Today's",
+    "title": "Flash Sales",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "bestSelling": {
+    "subtitle": "This Month",
+    "title": "Best Selling Products"
+  },
+  "exploreProducts": {
+    "subtitle": "Our Products",
+    "title": "Explore Our Products"
+  },
+  "newArrival": {
+    "subtitle": "Featured",
+    "title": "New Arrival"
+  },
+  "jbl": {
+    "categories": "Categories",
+    "title": "Enhance Your",
+    "subtitle": "Music Experience",
+    "hours": "Hours",
+    "days": "Days",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "buyNow": "Buy Now!"
+  },
+  "services": {
+    "freeDelivery": {
+      "title": "FREE AND FAST DELIVERY",
+      "description": "Free delivery for all orders over $140"
+    },
+    "customerService": {
+      "title": "24/7 CUSTOMER SERVICE",
+      "description": "Friendly 24/7 customer support"
+    },
+    "moneyBack": {
+      "title": "MONEY BACK GUARANTEE",
+      "description": "We return money within 30 days"
+    }
+  },
+  "footer": {
+    "exclusive": "Exclusive",
+    "subscribe": "Subscribe",
+    "subscribeText": "Get 10% off your first order",
+    "enterEmail": "Enter your email",
+    "support": "Support",
+    "address": "111 Bijoy Sarani, Dhaka, DH 1515, Bangladesh",
+    "email": "exclusive@gmail.com",
+    "phone": "+88015-88888-9999",
+    "account": "Account",
+    "myAccount": "My Account",
+    "loginRegister": "Login / Register",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "shop": "Shop",
+    "quickLink": "Quick Link",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms Of Use",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "downloadApp": "Download App",
+    "appPromo": "Save $3 with App New User Only",
+    "copyright": "Copyright Youssef Talaat 2025. All right reserved"
+  },
+  "auth": {
+    "login": {
+      "title": "Log in to Exclusive",
+      "subtitle": "Enter your details below",
+      "emailPlaceholder": "Email or Phone Number",
+      "passwordPlaceholder": "Password",
+      "loginButton": "Log In",
+      "forgotPassword": "Forgot Password?",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign Up",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Email is invalid",
+      "passwordRequired": "Password is required",
+      "passwordLength": "Password must be at least 6 characters"
+    },
+    "register": {
+      "title": "Create an account",
+      "subtitle": "Enter your details below",
+      "namePlaceholder": "Name",
+      "emailPlaceholder": "Email or Phone Number",
+      "passwordPlaceholder": "Password",
+      "createButton": "Create Account",
+      "haveAccount": "Already have account?",
+      "logIn": "Log in",
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Email is invalid",
+      "passwordRequired": "Password is required",
+      "passwordLength": "Password must be at least 6 characters"
+    },
+    "forgotPassword": {
+      "title": "Forgot Your Password?",
+      "subtitle": "Enter your email and we'll send you a reset link",
+      "emailPlaceholder": "Email",
+      "sendButton": "Send Reset Link",
+      "backToLogin": "Back to Login"
+    }
+  },
+  "cart": {
+    "title": "Cart",
+    "emptyCart": "Your cart is empty",
+    "startShopping": "Start Shopping",
+    "product": "Product",
+    "price": "Price",
+    "quantity": "Quantity",
+    "subtotal": "Subtotal",
+    "returnToShop": "Return To Shop",
+    "updateCart": "Update Cart",
+    "cartUpdated": "Cart Updated!",
+    "couponCode": "Coupon Code",
+    "applyCoupon": "Apply Coupon",
+    "enterCoupon": "Please enter a coupon code",
+    "couponApplied": "Coupon applied!",
+    "cartTotal": "Cart Total",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total",
+    "proceedToCheckout": "Proceed to checkout"
+  },
+  "wishlist": {
+    "title": "Wishlist",
+    "empty": "Your wishlist is empty",
+    "moveAllToBag": "Move All To Bag",
+    "justForYou": "Just For You",
+    "seeAll": "See All"
+  },
+  "checkout": {
+    "title": "Billing Details",
+    "firstName": "First Name",
+    "companyName": "Company Name",
+    "streetAddress": "Street Address",
+    "apartment": "Apartment, floor, etc. (optional)",
+    "city": "Town/City",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "saveInfo": "Save this information for faster check-out next time",
+    "paymentMethod": "Payment Method",
+    "bank": "Bank",
+    "cashOnDelivery": "Cash on delivery",
+    "coupon": "Coupon",
+    "applyCoupon": "Apply Coupon",
+    "orderSummary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "total": "Total",
+    "placeOrder": "Place Order"
+  },
+
+  "breadcrumb": {
+    "account": "Account",
+    "myAccount": "My Account",
+    "product": "Product",
+    "viewCart": "View Cart",
+    "checkout": "Checkout"
+  },
+  "errors": {
+    "firstNameRequired": "First name is required",
+    "streetRequired": "Street address is required",
+    "cityRequired": "City is required",
+    "phoneRequired": "Phone number is required",
+    "phoneInvalid": "Please enter a valid phone number",
+    "emailRequired": "Email address is required",
+    "emailInvalid": "Please enter a valid email address"
+  },
+  "coupon": {
+    "empty": "Please enter a coupon code",
+    "applied": "Coupon \"{{code}}\" applied!"
+  },
+
+  "account": {
+    "breadcrumbHome": "Home",
+    "breadcrumbMyAccount": "My Account",
+
+    "welcome": "Welcome!",
+    "manageAccount": "Manage My Account",
+
+    "myProfile": "My Profile",
+    "addressBook": "Address Book",
+    "paymentOptions": "My Payment Options",
+
+    "myOrders": "My Orders",
+    "myReturns": "My Returns",
+    "myCancellations": "My Cancellations",
+    "myWishlist": "My Wishlist",
+
+    "editProfile": "Edit Your Profile",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "address": "Address",
+
+    "passwordChanges": "Password Changes",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm New Password",
+
+    "cancel": "Cancel",
+    "saveChanges": "Save Changes",
+
+    "addAddress": "Add Address",
+    "noAddresses": "No saved addresses yet",
+
+    "noPayments": "No payment methods added yet",
+
+    "viewProduct": "View Product",
+    "wishlistEmpty": "Your wishlist is empty",
+
+    "returnsEmpty": "No returns yet",
+    "cancellationsEmpty": "No cancelled orders",
+
+    "order": "Order",
+    "qty": "Qty",
+    "reason": "Reason",
+    "status": "Status",
+    "cancelled": "Cancelled",
+    "cancelledOn": "Cancelled on"
+  },
+
+  "orders": {
+    "title": "My Orders",
+    "orderNumber": "Order #",
+    "date": "Date",
+    "status": "Status",
+    "total": "Total",
+    "actions": "Actions",
+    "viewDetails": "View Details",
+
+    "pending": "Pending",
+    "processing": "Processing",
+    "shipped": "Shipped",
+    "delivered": "Delivered",
+    "cancelled": "Cancelled",
+
+    "totalAmount": "Total Amount",
+    "items": "Items",
+    "orderItems": "Order Items",
+    "shippingAddress": "Shipping Address",
+    "orderSummary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "free": "Free",
+
+    "writeReview": "Write Review",
+    "cancelOrder": "Cancel Order",
+
+    "noOrders": "No Orders Yet",
+    "noOrdersDesc": "You haven't placed any orders yet",
+    "startShopping": "Start Shopping",
+
+    "cancelTitle": "Cancel Order",
+    "cancelConfirm": "Are you sure you want to cancel this order? This action cannot be undone.",
+    "cancelReason": "Reason for cancellation (optional)",
+    "cancelPlaceholder": "Let us know why you're cancelling...",
+    "keepOrder": "Keep Order",
+    "confirmCancel": "Yes, Cancel",
+    "myCancellations": "My Cancellations",
+    "orderCancelled": "Order Cancelled",
+    "cancelledOn": "Cancelled on",
+
+    "orderInformation": "Order Information",
+    "orderedOn": "Ordered on",
+    "paymentMethod": "Payment Method",
+
+    "cancellationReason": "Cancellation Reason",
+
+    "noCancelledOrders": "No Cancelled Orders",
+    "noCancelledOrdersDesc": "You haven't cancelled any orders yet",
+    "continueShopping": "Continue Shopping"
+  },
+
+  "reviews": {
+    "home": "Home",
+    "account": "My Account",
+    "myReviews": "My Reviews",
+
+    "yourReviews": "Your Reviews",
+    "productsToReview": "Products to Review",
+
+    "writeReview": "Write Review",
+    "writeAReview": "Write a Review",
+    "submitReview": "Submit Review",
+    "cancel": "Cancel",
+
+    "reviewedOn": "Reviewed on",
+    "ratingOutOf": "({{rating}}/5)",
+
+    "yourRating": "Your Rating",
+    "yourReview": "Your Review",
+    "optional": "Optional",
+
+    "noReviewsTitle": "No Reviews Yet",
+    "noReviewsDesc": "Purchase products and share your experience!",
+    "completedOrdersHint": "Complete orders will appear here for review",
+
+    "ratingRequired": "Please select a rating!",
+    "noComment": "No comment provided"
+  },
+
+  "product": {
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "reviews": "Reviews",
+    "colors": "Colors",
+    "size": "Size",
+    "quantity": "Quantity",
+    "buyNow": "Buy Now",
+    "freeDelivery": "Free Delivery",
+    "freeDeliveryDesc": "Enter your postal code for Delivery Availability",
+    "returnDelivery": "Return Delivery",
+    "returnDeliveryDesc": "Free 30 Days Delivery Returns",
+    "relatedItems": "Related Items"
+  },
+  "contact": {
+    "title": "Contact ",
+    "callToUs": "Call To Us",
+    "availableText": "We are available 24/7, 7 days a week.",
+    "phone": "Phone: +8801611112222",
+    "writeToUs": "Write To Us",
+    "writeText": "Fill out our form and we will contact you within 24 hours.",
+    "email": "Email: customer@exclusive.com",
+    "emailsEmail": "Emails: support@exclusive.com",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "yourPhone": "Your Phone",
+    "yourMessage": "Your Message",
+    "sendMessage": "Send Message"
+  },
+  "about": {
+    "title": "About Us",
+    "ourStory": "Our Story",
+    "storyText": "Launched in 2015, Exclusive is South Asia's premier online shopping marketplace with an active presence in Bangladesh. Supported by wide range of tailored marketing, data and service solutions, Exclusive has 10,500 sellers and 300 brands and serves 3 millions customers across the region.",
+    "extraStory": "Exclusive has more than 1 Million products to offer, growing at a very fast pace. Exclusive offers a diverse assortment in categories ranging from consumer.",
+
+    "sellers": "Sellers active on our site",
+    "monthlySales": "Monthly Product Sale",
+    "customers": "Customers active on our site",
+    "annualGross": "Annual gross sale on our site"
+  },
+  "error": {
+    "title": "404 Error",
+    "404": "404 Not Found",
+    "pageNotFound": "Page Not Found",
+    "backToHome": "Back to homepage"
+  },
+  "legal": {
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "faq": "Frequently Asked Questions"
+  },
+  "chat": {
+    "title": "Chat Support",
+    "subtitle": "We're here to help!",
+    "placeholder": "Type your message...",
+    "clear": "Clear chat",
+    "close": "Minimize",
+    "quickStart": "Quick start:",
+    "quickReplies": {
+      "products": "View Products",
+      "shipping": "Shipping Info",
+      "orders": "Track Order",
+      "support": "Contact Support"
+    },
+    "responses": {
+      "greeting": "Hello! 👋 How can I help you today? You can ask about products, shipping, orders, or anything else!",
+      "productSearch": "I can help you find products! Please tell me what you're looking for, or browse our categories:\n\n🛍️ Electronics\n👕 Fashion\n🏠 Home & Lifestyle\n⚽ Sports\n\nOr visit our shop page!",
+      "shipping": "📦 Shipping Information:\n\n✅ FREE shipping on orders over $140\n✅ Standard delivery: 3-5 business days\n✅ Express delivery: 1-2 business days\n\nYour order will be shipped within 24 hours!",
+      "payment": "💳 We accept:\n\n✅ Credit/Debit Cards (Visa, Mastercard)\n✅ PayPal\n✅ Cash on Delivery\n\nAll payments are secure and encrypted! 🔒",
+      "returns": "↩️ Return Policy:\n\n✅ 30-day money-back guarantee\n✅ Free return shipping\n✅ Full refund or exchange\n\nContact support@exclusive.com to start a return!",
+      "trackOrder": "📍 Track your order:\n\n1. Go to 'My Orders' in your account\n2. Click 'View Details'\n3. See real-time tracking\n\nNeed help? Send me your order number!",
+      "discounts": "🎉 Current Offers:\n\n✅ Summer Sale: Up to 50% OFF\n✅ First order: 10% discount\n✅ Free shipping over $140\n\nUse code: SUMMER2026 at checkout!",
+      "support": "💬 Contact Support:\n\n📧 Email: support@exclusive.com\n📞 Phone: +88015-88888-9999\n⏰ Available: 24/7\n\nHow can I assist you today?",
+      "thanks": "You're welcome! 😊 Is there anything else I can help you with?",
+      "default": "I'm here to help! You can ask me about:\n\n🛍️ Products & Shopping\n📦 Shipping & Delivery\n💳 Payment Methods\n↩️ Returns & Refunds\n📍 Order Tracking\n💬 Customer Support\n\nWhat would you like to know?"
+    }
+  }
+}

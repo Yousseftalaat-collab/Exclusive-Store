@@ -1,0 +1,430 @@
+{
+  "topHeader": {
+    "sale": "تخفيضات الصيف على جميع ملابس السباحة وتوصيل مجاني سريع - خصم 50%!",
+    "shopNow": "تسوق الآن"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "contact": "اتصل بنا",
+    "about": "من نحن",
+    "signUp": "إنشاء حساب",
+    "searchPlaceholder": "ماذا تبحث؟"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "welcome": "مرحبا",
+    "viewAll": "عرض الكل",
+    "shopNow": "تسوق الآن",
+    "buyNow": "اشتري الآن",
+    "noResults": "لا توجد منتجات لـ",
+    "all": "الكل"
+  },
+
+  "hero": {
+    "iphone14": "سلسلة آيفون 14",
+    "title": "خصم يصل إلى 10%",
+    "subtitle": "على القسيمة",
+    "shopNow": "تسوق الآن"
+  },
+  "categories": {
+    "title": "الفئات",
+    "browseByCategory": "تصفح حسب الفئة",
+    "womans": "موضة النساء",
+    "mens": "موضة الرجال",
+    "electronics": "الإلكترونيات",
+    "homeLifestyle": "المنزل ونمط الحياة",
+    "medicine": "الطب",
+    "sports": "الرياضة والهواء الطلق",
+    "babys": "الأطفال والألعاب",
+    "groceries": "البقالة والحيوانات الأليفة",
+    "health": "الصحة والجمال",
+    "phones": "الهواتف",
+    "computers": "الكمبيوترات",
+    "smartwatch": "الساعات الذكية",
+    "camera": "الكاميرات",
+    "headphones": "سماعات الرأس",
+    "gaming": "الألعاب"
+  },
+  "flashSales": {
+    "subtitle": "اليوم",
+    "title": "عروض سريعة",
+    "days": "أيام",
+    "hours": "ساعات",
+    "minutes": "دقائق",
+    "seconds": "ثواني"
+  },
+  "bestSelling": {
+    "subtitle": "هذا الشهر",
+    "title": "المنتجات الأكثر مبيعاً"
+  },
+  "exploreProducts": {
+    "subtitle": "منتجاتنا",
+    "title": "اكتشف منتجاتنا"
+  },
+  "newArrival": {
+    "subtitle": "مميز",
+    "title": "وصل حديثاً"
+  },
+  "jbl": {
+    "categories": "الفئات",
+    "title": "حسّن تجربتك",
+    "subtitle": "الموسيقية",
+    "hours": "ساعات",
+    "days": "أيام",
+    "minutes": "دقائق",
+    "seconds": "ثواني",
+    "buyNow": "اشتري الآن!"
+  },
+  "services": {
+    "freeDelivery": {
+      "title": "توصيل مجاني وسريع",
+      "description": "توصيل مجاني لجميع الطلبات أكثر من 140$"
+    },
+    "customerService": {
+      "title": "خدمة العملاء 24/7",
+      "description": "دعم عملاء ودود على مدار الساعة"
+    },
+    "moneyBack": {
+      "title": "ضمان استرداد الأموال",
+      "description": "نرجع المال خلال 30 يوماً"
+    }
+  },
+  "footer": {
+    "exclusive": "إكسكلوسيف",
+    "subscribe": "اشترك",
+    "subscribeText": "احصل على خصم 10% على طلبك الأول",
+    "enterEmail": "أدخل بريدك الإلكتروني",
+    "support": "الدعم",
+    "address": "111 بيجوي ساراني، دكا، DH 1515، بنغلاديش",
+    "email": "exclusive@gmail.com",
+    "phone": "+88015-88888-9999",
+    "account": "الحساب",
+    "myAccount": "حسابي",
+    "loginRegister": "تسجيل الدخول / التسجيل",
+    "cart": "السلة",
+    "wishlist": "قائمة الرغبات",
+    "shop": "المتجر",
+    "quickLink": "روابط سريعة",
+    "privacyPolicy": "سياسة الخصوصية",
+    "termsOfUse": "شروط الاستخدام",
+    "faq": "الأسئلة الشائعة",
+    "contact": "اتصل بنا",
+    "downloadApp": "تحميل التطبيق",
+    "appPromo": "وفر 3$ مع التطبيق للمستخدمين الجدد فقط",
+    "copyright": "حقوق النشر يوسف طلعت 2025. جميع الحقوق محفوظة"
+  },
+  "auth": {
+    "login": {
+      "title": "تسجيل الدخول إلى إكسكلوسيف",
+      "subtitle": "أدخل التفاصيل الخاصة بك أدناه",
+      "emailPlaceholder": "البريد الإلكتروني أو رقم الهاتف",
+      "passwordPlaceholder": "كلمة المرور",
+      "loginButton": "تسجيل الدخول",
+      "forgotPassword": "نسيت كلمة المرور؟",
+      "noAccount": "ليس لديك حساب؟",
+      "signUp": "إنشاء حساب",
+      "emailRequired": "البريد الإلكتروني مطلوب",
+      "emailInvalid": "البريد الإلكتروني غير صالح",
+      "passwordRequired": "كلمة المرور مطلوبة",
+      "passwordLength": "يجب أن تكون كلمة المرور 6 أحرف على الأقل"
+    },
+    "register": {
+      "title": "إنشاء حساب",
+      "subtitle": "أدخل التفاصيل الخاصة بك أدناه",
+      "namePlaceholder": "الاسم",
+      "emailPlaceholder": "البريد الإلكتروني أو رقم الهاتف",
+      "passwordPlaceholder": "كلمة المرور",
+      "createButton": "إنشاء حساب",
+      "haveAccount": "لديك حساب بالفعل؟",
+      "logIn": "تسجيل الدخول",
+      "nameRequired": "الاسم مطلوب",
+      "emailRequired": "البريد الإلكتروني مطلوب",
+      "emailInvalid": "البريد الإلكتروني غير صالح",
+      "passwordRequired": "كلمة المرور مطلوبة",
+      "passwordLength": "يجب أن تكون كلمة المرور 6 أحرف على الأقل"
+    },
+    "forgotPassword": {
+      "title": "هل نسيت كلمة المرور؟",
+      "subtitle": "أدخل بريدك الإلكتروني وسنرسل لك رابط إعادة التعيين",
+      "emailPlaceholder": "البريد الإلكتروني",
+      "sendButton": "إرسال رابط إعادة التعيين",
+      "backToLogin": "العودة إلى تسجيل الدخول"
+    }
+  },
+  "cart": {
+    "title": "السلة",
+    "emptyCart": "سلة التسوق فارغة",
+    "startShopping": "ابدأ التسوق",
+    "product": "المنتج",
+    "price": "السعر",
+    "quantity": "الكمية",
+    "subtotal": "المجموع الفرعي",
+    "returnToShop": "العودة للمتجر",
+    "updateCart": "تحديث السلة",
+    "cartUpdated": "تم تحديث السلة!",
+    "couponCode": "رمز القسيمة",
+    "applyCoupon": "تطبيق القسيمة",
+    "enterCoupon": "الرجاء إدخال رمز القسيمة",
+    "couponApplied": "تم تطبيق القسيمة!",
+    "cartTotal": "إجمالي السلة",
+    "shipping": "الشحن",
+    "free": "مجاني",
+    "total": "الإجمالي",
+    "proceedToCheckout": "المتابعة للدفع"
+  },
+  "wishlist": {
+    "title": "قائمة الرغبات",
+    "empty": "قائمة الرغبات فارغة",
+    "moveAllToBag": "نقل الكل إلى السلة",
+    "justForYou": "فقط من أجلك",
+    "seeAll": "عرض الكل"
+  },
+  "checkout": {
+    "title": "تفاصيل الفواتير",
+    "firstName": "الاسم الأول",
+    "companyName": "اسم الشركة",
+    "streetAddress": "عنوان الشارع",
+    "apartment": "الشقة، الطابق، إلخ (اختياري)",
+    "city": "المدينة",
+    "phone": "رقم الهاتف",
+    "email": "عنوان البريد الإلكتروني",
+    "saveInfo": "حفظ هذه المعلومات لتسريع الدفع في المرة القادمة",
+    "paymentMethod": "طريقة الدفع",
+    "bank": "البنك",
+    "cashOnDelivery": "الدفع عند الاستلام",
+    "coupon": "قسيمة",
+    "applyCoupon": "تطبيق القسيمة",
+    "orderSummary": "ملخص الطلب",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "الشحن",
+    "total": "الإجمالي",
+    "placeOrder": "تأكيد الطلب"
+  },
+  "breadcrumb": {
+    "account": "الحساب",
+    "myAccount": "حسابي",
+    "product": "المنتج",
+    "viewCart": "عرض السلة",
+    "checkout": "الدفع"
+  },
+  "errors": {
+    "firstNameRequired": "الاسم الأول مطلوب",
+    "streetRequired": "عنوان الشارع مطلوب",
+    "cityRequired": "المدينة مطلوبة",
+    "phoneRequired": "رقم الهاتف مطلوب",
+    "phoneInvalid": "يرجى إدخال رقم هاتف صحيح",
+    "emailRequired": "البريد الإلكتروني مطلوب",
+    "emailInvalid": "يرجى إدخال بريد إلكتروني صحيح"
+  },
+  "coupon": {
+    "empty": "يرجى إدخال رمز القسيمة",
+    "applied": "تم تطبيق القسيمة \"{{code}}\" بنجاح"
+  },
+
+  "account": {
+    "breadcrumbHome": "الرئيسية",
+    "breadcrumbMyAccount": "حسابي",
+
+    "welcome": "مرحبًا!",
+    "manageAccount": "إدارة حسابي",
+
+    "myProfile": "ملفي الشخصي",
+    "addressBook": "دفتر العناوين",
+    "paymentOptions": "خيارات الدفع",
+
+    "myOrders": "طلباتي",
+    "myReturns": "مرتجعاتي",
+    "myCancellations": "الإلغاءات",
+    "myWishlist": "قائمة الرغبات",
+
+    "editProfile": "تعديل الملف الشخصي",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "email": "البريد الإلكتروني",
+    "address": "العنوان",
+
+    "passwordChanges": "تغيير كلمة المرور",
+    "currentPassword": "كلمة المرور الحالية",
+    "newPassword": "كلمة المرور الجديدة",
+    "confirmPassword": "تأكيد كلمة المرور الجديدة",
+
+    "cancel": "إلغاء",
+    "saveChanges": "حفظ التغييرات",
+
+    "addAddress": "إضافة عنوان",
+    "noAddresses": "لا توجد عناوين محفوظة حتى الآن",
+
+    "noPayments": "لم تتم إضافة طرق دفع بعد",
+
+    "viewProduct": "عرض المنتج",
+    "wishlistEmpty": "قائمة الرغبات فارغة",
+
+    "returnsEmpty": "لا توجد مرتجعات حتى الآن",
+    "cancellationsEmpty": "لا توجد طلبات ملغاة",
+
+    "order": "طلب",
+    "qty": "الكمية",
+    "reason": "السبب",
+    "status": "الحالة",
+    "cancelled": "ملغى",
+    "cancelledOn": "تم الإلغاء في"
+  },
+
+  "orders": {
+    "title": "طلباتي",
+    "orderNumber": "رقم الطلب #",
+    "date": "التاريخ",
+    "status": "الحالة",
+    "total": "الإجمالي",
+    "actions": "الإجراءات",
+    "viewDetails": "عرض التفاصيل",
+
+    "pending": "قيد الانتظار",
+    "processing": "قيد المعالجة",
+    "shipped": "تم الشحن",
+    "delivered": "تم التسليم",
+    "cancelled": "ملغي",
+
+    "totalAmount": "المبلغ الإجمالي",
+    "items": "منتجات",
+    "orderItems": "عناصر الطلب",
+    "shippingAddress": "عنوان الشحن",
+    "orderSummary": "ملخص الطلب",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "الشحن",
+    "free": "مجاني",
+
+    "writeReview": "اكتب تقييم",
+    "cancelOrder": "إلغاء الطلب",
+
+    "noOrders": "لا توجد طلبات بعد",
+    "noOrdersDesc": "لم تقم بإجراء أي طلبات حتى الآن",
+    "startShopping": "ابدأ التسوق",
+
+    "cancelTitle": "إلغاء الطلب",
+    "cancelConfirm": "هل أنت متأكد أنك تريد إلغاء هذا الطلب؟ لا يمكن التراجع عن هذا الإجراء.",
+    "cancelReason": "سبب الإلغاء (اختياري)",
+    "cancelPlaceholder": "أخبرنا سبب الإلغاء...",
+    "keepOrder": "الاحتفاظ بالطلب",
+    "confirmCancel": "نعم، إلغاء",
+    "myCancellations": "طلباتي الملغاة",
+    "orderCancelled": "تم إلغاء الطلب",
+    "cancelledOn": "تم الإلغاء في",
+
+    "orderInformation": "معلومات الطلب",
+    "orderedOn": "تاريخ الطلب",
+    "paymentMethod": "طريقة الدفع",
+
+    "cancellationReason": "سبب الإلغاء",
+
+    "noCancelledOrders": "لا توجد طلبات ملغاة",
+    "noCancelledOrdersDesc": "لم تقم بإلغاء أي طلب حتى الآن",
+    "continueShopping": "متابعة التسوق"
+  },
+
+  "reviews": {
+    "home": "الرئيسية",
+    "account": "حسابي",
+    "myReviews": "تقييماتي",
+
+    "yourReviews": "تقييماتك",
+    "productsToReview": "منتجات بانتظار التقييم",
+
+    "writeReview": "اكتب تقييم",
+    "writeAReview": "كتابة تقييم",
+    "submitReview": "إرسال التقييم",
+    "cancel": "إلغاء",
+
+    "reviewedOn": "تم التقييم في",
+    "ratingOutOf": "({{rating}}/5)",
+
+    "yourRating": "تقييمك",
+    "yourReview": "رأيك",
+    "optional": "اختياري",
+
+    "noReviewsTitle": "لا توجد تقييمات",
+    "noReviewsDesc": "قم بشراء منتجات وشاركنا تجربتك!",
+    "completedOrdersHint": "ستظهر الطلبات المكتملة هنا للتقييم",
+
+    "ratingRequired": "من فضلك اختر تقييمًا!",
+    "noComment": "لا يوجد تعليق"
+  },
+
+  "product": {
+    "inStock": "متوفر",
+    "outOfStock": "غير متوفر",
+    "reviews": "التقييمات",
+    "colors": "الألوان",
+    "size": "المقاس",
+    "quantity": "الكمية",
+    "buyNow": "اشتري الآن",
+    "freeDelivery": "توصيل مجاني",
+    "freeDeliveryDesc": "أدخل رمزك البريدي لمعرفة توفر التوصيل",
+    "returnDelivery": "إرجاع مجاني",
+    "returnDeliveryDesc": "إرجاع مجاني خلال 30 يوماً",
+    "relatedItems": "منتجات ذات صلة"
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "callToUs": "اتصل بنا",
+    "availableText": "نحن متاحون على مدار الساعة طوال أيام الأسبوع.",
+    "phone": "الهاتف: +8801611112222",
+    "writeToUs": "اكتب لنا",
+    "writeText": "املأ النموذج وسنتصل بك خلال 24 ساعة.",
+    "email": "البريد الإلكتروني: customer@exclusive.com",
+    "emailsEmail": "البريد الإلكتروني: support@exclusive.com",
+    "yourName": "اسمك",
+    "yourEmail": "بريدك الإلكتروني",
+    "yourPhone": "هاتفك",
+    "yourMessage": "رسالتك",
+    "sendMessage": "إرسال الرسالة"
+  },
+  "about": {
+    "title": "من نحن",
+    "ourStory": "قصتنا",
+    "storyText": "تم إطلاق إكسكلوسيف في عام 2015، وهي أول سوق تسوق عبر الإنترنت في جنوب آسيا مع وجود نشط في بنغلاديش. بدعم من مجموعة واسعة من حلول التسويق والبيانات والخدمات المخصصة، لدى إكسكلوسيف 10,500 بائع و300 علامة تجارية وتخدم 3 ملايين عميل عبر المنطقة.",
+    "extraStory": "تمتلك Exclusive أكثر من مليون منتج لتقدمه، وتنمو بسرعة كبيرة. تقدم Exclusive مجموعة متنوعة من الفئات تتراوح من المنتجات الاستهلاكية.",
+
+    "sellers": "البائعون النشطون على موقعنا",
+    "monthlySales": "مبيعات المنتجات الشهرية",
+    "customers": "العملاء النشطون على موقعنا",
+    "annualGross": "إجمالي المبيعات السنوية على موقعنا"
+  },
+  "error": {
+    "title": "404 غير موجود",
+    "404": "404 غير موجود",
+    "pageNotFound": "الصفحة غير موجودة",
+    "backToHome": "العودة للصفحة الرئيسية"
+  },
+  "legal": {
+    "privacyPolicy": "سياسة الخصوصية",
+    "termsOfUse": "شروط الاستخدام",
+    "faq": "الأسئلة الشائعة"
+  },
+  "chat": {
+    "title": "دعم الدردشة",
+    "subtitle": "نحن هنا للمساعدة!",
+    "placeholder": "اكتب رسالتك...",
+    "clear": "مسح المحادثة",
+    "close": "تصغير",
+    "quickStart": "بداية سريعة:",
+    "quickReplies": {
+      "products": "عرض المنتجات",
+      "shipping": "معلومات الشحن",
+      "orders": "تتبع الطلب",
+      "support": "اتصل بالدعم"
+    },
+    "responses": {
+      "greeting": "مرحباً! 👋 كيف يمكنني مساعدتك اليوم؟ يمكنك السؤال عن المنتجات أو الشحن أو الطلبات أو أي شيء آخر!",
+      "productSearch": "يمكنني مساعدتك في العثور على المنتجات! أخبرني بما تبحث عنه، أو تصفح فئاتنا:\n\n🛍️ الإلكترونيات\n👕 الأزياء\n🏠 المنزل ونمط الحياة\n⚽ الرياضة\n\nأو قم بزيارة صفحة المتجر!",
+      "shipping": "📦 معلومات الشحن:\n\n✅ شحن مجاني للطلبات أكثر من 140$\n✅ التوصيل القياسي: 3-5 أيام عمل\n✅ التوصيل السريع: 1-2 أيام عمل\n\nسيتم شحن طلبك خلال 24 ساعة!",
+      "payment": "💳 نقبل:\n\n✅ بطاقات الائتمان/الخصم (فيزا، ماستركارد)\n✅ باي بال\n✅ الدفع عند الاستلام\n\nجميع المدفوعات آمنة ومشفرة! 🔒",
+      "returns": "↩️ سياسة الإرجاع:\n\n✅ ضمان استرجاع الأموال لمدة 30 يوماً\n✅ شحن الإرجاع مجاني\n✅ استرداد كامل أو استبدال\n\nاتصل بـ support@exclusive.com لبدء الإرجاع!",
+      "trackOrder": "📍 تتبع طلبك:\n\n1. انتقل إلى 'طلباتي' في حسابك\n2. انقر على 'عرض التفاصيل'\n3. شاهد التتبع في الوقت الفعلي\n\nتحتاج مساعدة؟ أرسل لي رقم طلبك!",
+      "discounts": "🎉 العروض الحالية:\n\n✅ تخفيضات الصيف: خصم يصل إلى 50%\n✅ أول طلب: خصم 10%\n✅ شحن مجاني للطلبات أكثر من 140$\n\nاستخدم الكود: SUMMER2026 عند الدفع!",
+      "support": "💬 اتصل بالدعم:\n\n📧 البريد: support@exclusive.com\n📞 الهاتف: +88015-88888-9999\n⏰ متاح: 24/7\n\nكيف يمكنني مساعدتك اليوم؟",
+      "thanks": "عفواً! 😊 هل هناك أي شيء آخر يمكنني مساعدتك به؟",
+      "default": "أنا هنا للمساعدة! يمكنك سؤالي عن:\n\n🛍️ المنتجات والتسوق\n📦 الشحن والتوصيل\n💳 طرق الدفع\n↩️ الإرجاع والاسترداد\n📍 تتبع الطلب\n💬 دعم العملاء\n\nماذا تريد أن تعرف؟"
+    }
+  }
+}
