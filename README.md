@@ -12,14 +12,12 @@ Designed to feel like a real shopping app â€” fast, responsive, and polished. âœ
 <div align="center">
   <img src="Screenshot-1.png" width="800" alt="Exclusive Store Desktop Preview"/>
   <br><br>
-  <img src="Screenshot-2.png" width="400" alt="Exclusive Store "/>
+  <img src="Screenshot-2.png" width="800" alt="Exclusive Store "/>
   <br><br>
   <img src="Screenshot-3.png" width="800" alt="Exclusive Store "/>
 </div>
 
-<p align="center">
-<em>Note:</em> Replace the images above with your real screenshots (same filenames) for a perfect GitHub/LinkedIn showcase.
-</p>
+
 
 <hr>
 
