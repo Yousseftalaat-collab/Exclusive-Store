@@ -5,10 +5,10 @@ import { useCartStore } from "@/stores/useCartStore";
 import { useOrderStore } from "@/stores/useOrderStore";
 import { useAuthStore } from "@/stores/useAuthStore";
 import Button from "@/components/ui/Button";
-import VisaIconFirst from "/icons/image-30.svg";
-import VisaIconSecond from "/icons/image-31.svg";
-import VisaIconThird from "/icons/image-32.svg";
-import VisaIconFour from "/icons/image-33.svg";
+import VisaIconFirst from "/assets/Icons/image-30.svg";
+import VisaIconSecond from "/assets/Icons/image-31.svg";
+import VisaIconThird from "/assets/Icons/image-32.svg";
+import VisaIconFour from "/assets/Icons/image-33.svg";
 
 const CheckoutPage: React.FC = () => {
   const { t } = useTranslation();
