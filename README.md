@@ -10,11 +10,11 @@ Designed to feel like a real shopping app — fast, responsive, and polished. �
 
 <h2>📸 Preview</h2>
 <div align="center">
-  <img src="./assets/preview/home-desktop.png" width="800" alt="Exclusive Store Desktop Preview"/>
+  <img src="Screenshot-1.png" width="800" alt="Exclusive Store Desktop Preview"/>
   <br><br>
-  <img src="./assets/preview/home-mobile.png" width="400" alt="Exclusive Store Mobile Preview"/>
+  <img src="Screenshot-2.png" width="400" alt="Exclusive Store "/>
   <br><br>
-  <img src="./assets/preview/chatbot.png" width="800" alt="Exclusive Store Chatbot Preview"/>
+  <img src="Screenshot-3.png" width="800" alt="Exclusive Store "/>
 </div>
 
 <p align="center">
