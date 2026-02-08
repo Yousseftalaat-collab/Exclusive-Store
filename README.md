@@ -112,17 +112,6 @@ This project supports translating product <strong>titles</strong> and <strong>de
 
 <hr>
 
-<h2>🚀 Deployment</h2>
-<p>
-Recommended: <strong>Vercel</strong> (best for React Router + env vars + HTTPS).
-</p>
-<ul>
-  <li>📌 Guide: <code>DEPLOYMENT.md</code></li>
-  <li>✅ SPA routing is supported via <code>vercel.json</code></li>
-</ul>
-
-<hr>
-
 <h2>💬 Contact</h2>
 <p>📧 Email: <a href="mailto:yousseftalaat142@gmail.com">yousseftalaat142@gmail.com</a></p>
 <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/youssef-talaat-1aa2671b3/">Youssef Talaat</a></p>
